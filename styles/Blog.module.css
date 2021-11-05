@@ -1,0 +1,12 @@
+.news {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.article {
+    list-style: none;
+    color:rgb(94, 94, 94);
+  }
+
