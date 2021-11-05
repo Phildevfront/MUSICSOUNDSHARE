@@ -5,7 +5,6 @@ import styles from '../styles/Blog.module.css'
 
 
 const Hero  = styled.div`
-  height: 60vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +13,7 @@ const Hero  = styled.div`
 
 const Heading = styled.h1`
 color: blue;
-font-size: 10rem;
+font-size: 5rem;
 font-weight: 900
 `;
 

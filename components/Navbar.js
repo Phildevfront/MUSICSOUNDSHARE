@@ -30,8 +30,11 @@ const Navbar = () => {
                 <Link href='/about' passHref>
                     <StyledLink>About</StyledLink>
                 </Link>
-                <Link href='/audio' passHref>
-                    <StyledLink>Audio</StyledLink>
+                <Link href='/music' passHref>
+                    <StyledLink>Music</StyledLink>
+                </Link>
+                <Link href='/soundfx' passHref>
+                    <StyledLink>Sound Fx</StyledLink>
                 </Link>
                 <Link href='/blog' passHref>
                     <StyledLink>Blog</StyledLink>
