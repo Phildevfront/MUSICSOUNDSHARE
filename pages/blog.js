@@ -13,7 +13,7 @@ const Hero  = styled.div`
 `;
 
 const Heading = styled.h1`
-color: #000;
+color: blue;
 font-size: 10rem;
 font-weight: 900
 `;
